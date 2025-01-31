@@ -40,6 +40,7 @@ this program. If not, see <https://www.gnu.org/licenses/>.
 
 #include <algorithm>
 #include <utility>
+#include <cmath>
 
 using namespace std;
 
